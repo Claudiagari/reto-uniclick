@@ -1,0 +1,9 @@
+body{
+  font-family: 'Lato', sans-serif;
+}
+.products{
+  background-color: #D9534F;
+}
+.products h3, .products p{
+  color: #fff
+}
