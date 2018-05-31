@@ -7,3 +7,10 @@ body{
 .products h3, .products p{
   color: #fff
 }
+.btn-pink{
+  background: #D9534F;
+  color: #fff;
+}
+footer{
+  color: #fff
+}
